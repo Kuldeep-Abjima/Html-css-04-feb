@@ -1,0 +1,14 @@
+h1{
+    color: chocolate;
+    background-color: aqua;
+    font-family: 'Times New Roman';
+}
+.button{
+    color:black;
+    background-color: white;
+    align-items: center;
+}
+.button:hover{
+    color: white;
+    background-color: black;
+}
